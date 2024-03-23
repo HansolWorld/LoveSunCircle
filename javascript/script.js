@@ -21,6 +21,9 @@ jQuery(document).ready(function(){
     $(".notice li:first").click(function(){
         $("#modal").addClass("active");
     });
+    $(".notice li:second").click(function(){
+        $("#modal2").addClass("active");
+    });
     $(".btn").click(function(){
         $("#modal").removeClass("active");
     });
