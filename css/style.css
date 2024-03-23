@@ -202,6 +202,9 @@ header{/*A영역: 와이어프레임 왼쪽 영역*/
 #modal.active{
     display: block;
 }
+#modal2.active{
+    display: block;
+}
 .modal_up{
     width: 400px;
     height: 300px;
