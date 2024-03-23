@@ -26,8 +26,6 @@ jQuery(document).ready(function(){
     });
     $(".btn").click(function(){
         $("#modal").removeClass("active");
-    });
-    $(".btn").click(function(){
         $("#modal2").removeClass("active");
     });
 });
